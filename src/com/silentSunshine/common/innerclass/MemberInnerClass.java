@@ -35,7 +35,7 @@ class Outer{
 
     }
 
-    class Inner{
+    class Inner {
         private int anInt2 = 2;
         private String string = "Inner";
         //内部类方法
