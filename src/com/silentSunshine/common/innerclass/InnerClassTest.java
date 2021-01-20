@@ -57,8 +57,6 @@ class OuterClass{
         public void print(){
             System.out.println("innerClass");
             //System.out.println(outer);
-        
-
         }
     }
 
