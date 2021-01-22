@@ -1,4 +1,4 @@
-package com.silentSunshine.common.math;
+package com.silentsunshine.common.math;
 
 /**
  * @auther: zhouqichun
