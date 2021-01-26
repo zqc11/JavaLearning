@@ -17,5 +17,7 @@ public class RandomTest {
         System.out.println(random.nextGaussian());
         //返回随机Boolean值
         System.out.println(random.nextBoolean());
+        //I don't use mouse,hahaha
+        System.out.println("I use IdeaVim");
     }
 }
